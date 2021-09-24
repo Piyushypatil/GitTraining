@@ -1,3 +1,4 @@
 Welcome to GIT Training
 
 Do Programming Task
+Training session
